@@ -3,7 +3,7 @@
 <!--Heading-->
 ---
 
-<img width="792" alt="스크린샷 2022-05-20 오후 3 11 57" src="https://user-images.githubusercontent.com/79096673/169467535-622b61d8-1a09-4fd5-ba47-3e178c719d6f.png">
+<center><img width="792" alt="스크린샷 2022-05-20 오후 3 11 57" src="https://user-images.githubusercontent.com/79096673/169467535-622b61d8-1a09-4fd5-ba47-3e178c719d6f.png" width="100%" height="100%"></center>
 
 
 ~~~
