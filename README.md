@@ -41,5 +41,5 @@
 
 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudgus462)](https://solved.ac/rudgus4620/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudgus4620)](https://solved.ac/rudgus4620/)
 
