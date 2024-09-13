@@ -40,3 +40,6 @@
 ### [나의 블로그](https://velog.io/@rudgus)
 
 
+---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudgus462)](https://solved.ac/rudgus4620/)
+
