@@ -19,10 +19,13 @@
 <img src="https://img.shields.io/badge/CSS-570A57?style=flat-square&logo=css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-FFD24C?style=flat-square&logo=Javascript&logoColor=white"/></a>
 
+<!--블로그-->
+### 생각 정리 👯
+**기술 관련 블로그를 운영하며 개발을 할때 배운 내용과 이해한 내용을 토대로 정리합니다** </br>
+### [나의 블로그](https://velog.io/@rudgus)
 
+---
 
-  #
-  ---
 <!--수상경력-->
 ## 수상 경력 😄😄  #
 2021년<br/>
@@ -41,13 +44,6 @@
 - 지역문제 해결 창업아이디어 공모전 대상<br/>
 - 전국 대학생 SW 창업 아이디어톤 장려상<br/>
 - Google AI 융합혁신 기술대회 인기상
-
-  #
----
-<!--블로그-->
-### 생각 정리 👯
-**기술 관련 블로그를 운영하며 개발을 할때 배운 내용과 이해한 내용을 토대로 정리합니다** </br>
-### [나의 블로그](https://velog.io/@rudgus)
 
 
 ---
